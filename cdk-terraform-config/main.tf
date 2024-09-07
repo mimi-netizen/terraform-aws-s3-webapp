@@ -7,7 +7,7 @@ terraform {
       name = "s3-webapp-workspace" 
     } 
   } 
-}
+
 
 provider "aws" {
   region = "eu-central-1"
